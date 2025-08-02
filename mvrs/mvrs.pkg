@@ -1,4 +1,22 @@
-D 'DEA': Data envelopment analysis
+D 'mvrs': Multivariable modeling with cubic regression splines models Use mvrs With STATA 19
 D
-F dea.ado
-F dea.sthlp
+F mfpa.ado
+F mfpa.sthlp
+F mvrs.ado
+F mvrs.sthlp
+F splinegen.ado
+F splinegen.sthlp
+F uvrs.ado
+F uvrs.sthlp
+F xfrac_154.ado
+F xfrac_adj.ado
+F xfrac_chk.ado
+F xfrac_dis.ado
+F xfracplot.ado
+F xfracplot.sthlp
+F xfracpoly.ado
+F xfracpoly.sthlp
+F xfracpoly_10.ado
+F xfracpred.ado
+F xfracpred.sthlp
+F xmfp_10.ado
